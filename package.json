@@ -1,0 +1,19 @@
+{
+  "name": "discord-init",
+  "version": "1.0.0",
+  "description": "Create Discord.js Bot!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/redeast/discord-init.git"
+  },
+  "author": "RedEast",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/redeast/discord-init/issues"
+  },
+  "homepage": "https://github.com/redeast/discord-init#readme"
+}
