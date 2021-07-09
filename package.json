@@ -1,6 +1,9 @@
 {
   "name": "discord-init",
   "version": "1.0.0",
+  "bin": {
+    "discord-init": "./bin/init.js"
+  },
   "description": "Create Discord.js Bot!",
   "main": "index.js",
   "scripts": {
