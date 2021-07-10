@@ -1,1 +1,1 @@
-console.log('under development')
+console.log('run "npx discord-init <project-name>"')

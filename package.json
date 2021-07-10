@@ -1,6 +1,6 @@
 {
   "name": "discord-init",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "bin": {
     "discord-init": "./bin/init.js"
   },
@@ -14,7 +14,7 @@
     "url": "git+https://github.com/redeast/discord-init.git"
   },
   "author": "RedEast",
-  "license": "ISC",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/redeast/discord-init/issues"
   },
