@@ -164,8 +164,9 @@ client.login(token)
 
     console.clear()
     console.log(
-      '\x1b[32m' + '\nThe installation is done, this is ready to use !\n'
+      '\x1b[32m' + '\nThe installation is done, this is ready to use!'
     )
+    console.log('\x1b[33m' + 'Edit config.json to start!')
   } catch (error) {
     console.log(error)
   }
