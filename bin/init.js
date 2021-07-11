@@ -44,8 +44,8 @@ async function main() {
   "description": "",
   "main": "bot.js",
   "dependencies": {
-    "@discordjs/opus": "^0.5.3",
-    "discord.js": "^12.5.3"
+    "discord.js": "^12.5.3",
+    "@discordjs/opus": "^0.5.3"
   },
   "devDependencies": {
     "eslint": "^7.30.0",
